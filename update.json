@@ -1,0 +1,6 @@
+{
+    "version": $VERSION,
+    "versionCode": $VERSIONCODE,
+    "zipUrl": $URLRELEASE,
+    "changelog": $URLCHANGELOG
+}
